@@ -1,0 +1,54 @@
+body {
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header {
+  border-bottom: 1px solid gray;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+h1 {
+  padding-bottom: 5px;
+  margin-bottom: 0;
+}
+
+#divone {
+  border: 1px solid gray;
+  width: 415px;
+  display: inline-block;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding: 10px;
+}
+
+#divtwo {
+  border: 1px solid gray;
+  width: 415px;
+  display: inline-block;
+  margin-top: 25px;
+  float: right;
+  margin-bottom: 25px;
+  padding: 10px;
+}
+
+.thumbs_block {
+
+}
+
+#divone img {
+  margin: 19px;
+}
+
+#divtwo img {
+  margin: 19px;
+}
+
+footer {
+  border-top: 1px solid gray;
+  padding-top: 0;
+  margin-top: 0;
+  width: 435px;
+}
